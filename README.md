@@ -1,4 +1,4 @@
 # personal_expenses_app
 # Mobile App Using Flutter and Dart.
 
-This project is a my starting point for a Flutter application.
+This is my first project using flutter & dart.
